@@ -104,7 +104,7 @@
 		"activityBar.foreground":"#ADFFF3",
 		"activityBarBadge.background":"#4599A5",
 		
-		"profileBadge.background":"#ff0000",
+		//"profileBadge.background":"#ff0000",
 
 		"sideBar.background":"#080A11",
 		"sideBarSectionHeader.background":"#080A11",
@@ -139,7 +139,7 @@
 		"statusBarItem.hoverBackground":"#adfff34d",
 		"statusBarItem.hoverForeground":"#fff",
 		"statusBarItem.warningBackground":"#65dfd554",
-		"statusBarItem.compactHoverBackground":"#ff0000",
+		"statusBarItem.compactHoverBackground":"#adfff3a6",
 
 		"menubar.selectionForeground":"#ADFFF3",
 		"menu.separatorBackground":"#25527550",
