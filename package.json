@@ -1,0 +1,21 @@
+{
+  "name": "aqua-neon",
+  "displayName": "Aqua Neon",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aqua Neon Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aqua Neon Theme-color-theme.json"
+      }
+    ]
+  }
+}
