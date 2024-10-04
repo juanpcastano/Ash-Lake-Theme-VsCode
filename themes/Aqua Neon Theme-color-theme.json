@@ -58,11 +58,6 @@
 		"toolbar.hoverBackground":"#173049",
 		"toolbar.activeBackground":"#35768D",
 
-		/* "editorActionList.background":"#ff0000",
-		"editorActionList.foreground":"#ff0000",
-		"editorActionList.focusBackground":"#ff0000",
-		"editorActionList.focusForeground":"#ff0000", */
-
 		"button.background":"#4599a5",
 		"button.secondaryBackground":"#173049",
 
@@ -71,14 +66,6 @@
 		"checkbox.border":"#173049",
 		"checkbox.selectBorder":"#35768d",
 		"checkbox.selectBackground":"#35768d",
-
-		/* "radio.activeBackground":"#ff0000",
-		"radio.activeForeground":"#ff0000",
-		"radio.activeBorder":"#ff0000",
-		"radio.inactiveForeground":"#ff0000",
-		"radio.inactiveBackground":"#ff0000",
-		"radio.inactiveBorder":"#ff0000",
-		"radio.inactiveHoverBackground":"#ff0000",*/
 
 		"dropdown.background": "#080a11",
 		"dropdown.border":"#0B1320",
@@ -103,8 +90,6 @@
 		"activityBar.dropBorder": "#ADFFF3",
 		"activityBar.foreground":"#ADFFF3",
 		"activityBarBadge.background":"#4599A5",
-		
-		//"profileBadge.background":"#ff0000",
 
 		"sideBar.background":"#080A11",
 		"sideBarSectionHeader.background":"#080A11",
@@ -150,7 +135,6 @@
 		"commandCenter.activeBorder":"#ffffff00",
 		"commandCenter.inactiveBorder":"#ffffff00",
 		
-		"banner.background":"#ff0000",
 
 		"keybindingLabel.background":"#35768d86",
 		"keybindingLabel.foreground":"#ADFFF3",
@@ -162,10 +146,6 @@
 		"terminal.selectionBackground":"#35768d86",
 		
 		"editorOverviewRuler.border":"#ffffff00",
-
-		"welcomePage.tileBackground":"#ff0000",
-
-		"actionBar.toggledBackground":"#ff0000"
 
 
 	},
