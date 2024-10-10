@@ -129,8 +129,8 @@
 
 		"statusBar.background":"#05050f",
 		"statusBar.foreground":"#8edfff",
-		"statusBar.debuggingBackground":"#101035",
-		"statusBar.noFolderBackground":"#101035",
+		"statusBar.debuggingBackground":"#08101d",
+		"statusBar.noFolderBackground":"#08101d",
 		"statusBarItem.activeBackground":"#8edfff86",
 		"statusBarItem.hoverBackground":"#8edfff4d",
 		"statusBarItem.hoverForeground":"#fff",
