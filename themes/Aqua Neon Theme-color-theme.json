@@ -13,9 +13,9 @@
 		"icon.foreground":"#BDE9FC",
 		"sash.hoverBorder":"#BDE9FC",
 		
-		"editor.background": "#030307",
+		"editor.background": "#04040c",
 		"editor.foreground": "#BDE9FC",
-		"editorLineNumber.foreground":"#bbedff",
+		"editorLineNumber.foreground":"#5e87b663",
 		"editorLineNumber.activeForeground":"#BDE9FC",
 		"editorCursor.foreground":"#BDE9FC",
 		"editor.wordHighlightBackground":"#35548d6c",
@@ -28,9 +28,9 @@
 		"editorIndentGuide.background1":"#25527550",
 		"editorBracketMatch.background":"#35548d86",
 		"editorBracketMatch.border":"#bde9fc73",
-		"editorBracketHighlight.foreground1": "#5896D8", 
-		"editorBracketHighlight.foreground2": "#55ADDD", 
-		"editorBracketHighlight.foreground3": "#4FCCE4", 
+		"editorBracketHighlight.foreground1": "#2e76c4", 
+		"editorBracketHighlight.foreground2": "#5facd6", 
+		"editorBracketHighlight.foreground3": "#20daff", 
 		"editorBracketHighlight.foreground4": "#4BDDE8", 
 		"editorBracketHighlight.foreground5": "#95EAF0", 
 		"editorBracketHighlight.foreground6": "#BAF0F4", 
@@ -98,7 +98,7 @@
 		"activityBar.background":"#05050f",
 		"activityBar.dropBorder": "#d4fff8",
 		"activityBar.foreground":"#daf5ff",
-		"activityBarBadge.background":"#4599A5",
+		"activityBarBadge.background":"#05050f",
 		"activityBar.inactiveForeground": "#1f4e6e",
 
 		"sideBar.background":"#05050f",
@@ -109,7 +109,7 @@
 		"tree.indentGuidesStroke":"#25527550",
 
 		"editorGroup.border":"#65dfd50e",
-		"editorGroup.dropBackground":"#df65653f",
+		"editorGroup.dropBackground":"#35a8ff50",
 		"editorGroupHeader.tabsBackground":"#05050f",
 
 		"tab.activeBackground":"#05050f",
@@ -124,6 +124,8 @@
 		"breadcrumb.background":"#05050f",
 
 		"panel.border": "#090D16",
+		"panel.background":"#05050f",
+		"panel.dropBorder":"#8edfff",
 		"panelTitle.activeBorder":"#8edfff",
 		"panelTitle.activeForeground":"#8edfff",
 
@@ -136,6 +138,9 @@
 		"statusBarItem.hoverForeground":"#fff",
 		"statusBarItem.warningBackground":"#659edf54",
 		"statusBarItem.compactHoverBackground":"#35548d86",
+		"statusBarItem.remoteForeground":"#8edfff",
+		"statusBarItem.remoteHoverBackground":"#8edfff",
+		"statusBarItem.remoteHoverForeground":"#000000",
 
 		"menubar.selectionForeground":"#8edfff",
 		"menu.separatorBackground":"#2d7fbe50",
