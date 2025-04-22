@@ -4,18 +4,16 @@ a personal visual studio theme, not made for making the things more visible, jus
 
 not finished yet
 
-color palletes used (not strictly):
+color palletes used:
 
-https://coolors.co/f2f8f7-dcf9f5-99fff0-54f4ef-1cdcfa-03c2ff-0c97ff-0049f5-063ab1-112b6a
+https://coolors.co/0b0e16-0a0d16-090c16-070a15-050815-030514
 
-https://coolors.co/06060c-0b1320-101f33-173049-255275-35768d-4599a5-55bcbd-65dfd4-6fffe9
+https://coolors.co/0b0e16-0e121a-11151e-171c25-232a34-3a4651-52626e-697e8b-98b6c5-c7eeff
 
-https://coolors.co/255275-316d87-3d8799-49a2ab-55bcbd-76cdcc-86d6d4-96dedb-b6efea-d6fff9
+https://coolors.co/0b0e16-171d25-222c33-384950-4e666d-65838a-7ba0a6-91bdc3-a7dae0-bdf7fc
 
-https://coolors.co/06060c-080a11-090d16-0a101b-0b1320
+https://coolors.co/0b0e16-0e0f20-100f25-110f2a-160f3d-1c1743-211e49-35325a-474569
 
-https://coolors.co/1c3c60-365b7d-507a9a-84b8d4-95cde7-a6e1fa-bde9fc-d3f0fd-e9f8fe-ffffff
+https://coolors.co/160f3d-322c54-403a60-4e486b-868199-bebac7-f5f3f5
 
-https://coolors.co/255275-669ab8-86bed9-9ed9f2-a6e1fa-bce8fa-d4f0fc-e0f4fd-e6f6fd-ecf8fd
-
-https://coolors.co/458dc4-5298cb-5ea2d2-76b7df-8ecced-a6e1fa-d4f0fc-e0f4fd-e6f6fd-ecf8fd
+https://coolors.co/bdf7fc-8ab8dc-5779bc-113399-3e2cde-0c97ff-30e6b8
