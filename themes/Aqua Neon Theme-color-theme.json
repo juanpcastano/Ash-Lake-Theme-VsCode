@@ -125,6 +125,7 @@
 		"list.inactiveSelectionBackground":"#3A465150",
 		"list.inactiveSelectionForeground":"#B0D2E2",
 		"list.hoverForeground":"#C7EEFF",
+		"list.errorForeground":"#ff5975",
 
 		"activityBar.background":"#0D1017",
 		"activityBar.dropBorder": "#C7EEFF",
@@ -198,6 +199,7 @@
 		"titleBar.inactiveBackground":"#0D1017",
 		"titleBar.activeForeground":"#697E8B",
 		"titleBar.inactiveForeground":"#52626E",
+		
 		"terminal.background":"#0D1017",
 		"terminal.foreground":"#C7EEFF",
 		"terminal.selectionBackground":"#B0D2E245",
@@ -212,9 +214,11 @@
 		"gitDecoration.untrackedResourceForeground":"#4dbfb6",
 		"gitDecoration.conflictingResourceForeground":"#bf4d60",
 		"gitDecoration.deletedResourceForeground":"#bf7860",
+		"gitDecoration.stageDeletedResourceForeground":"#bf7860",
 		"gitDecoration.modifiedResourceForeground":"#6078bf",
+		"gitDecoration.stageModifiedResourceForeground":"#6078bf",
 		"gitDecoration.renamedResourceForeground": "#60bf80",
-		"gitDecoration.submoduleResourceForeground":"#608fbf"
+		"gitDecoration.submoduleResourceForeground":"#608fbf",
 	},
 	"tokenColors": [
 		{
