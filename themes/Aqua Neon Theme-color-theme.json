@@ -58,13 +58,13 @@
 		"merge.commonContentBackground":"#697E8B10",
 		"merge.commonHeaderBackground":"#697E8B1a",
 
-		"mergeEditor.change.background": "#6666ff10",
-        "mergeEditor.change.word.background": "#6666ff1a",
-        "mergeEditor.conflict.unhandledUnfocused.border": "#6666ff80",
-        "mergeEditor.conflict.unhandledFocused.border": "#6666ff",
+		"mergeEditor.change.background": "#40a6ff10",
+        "mergeEditor.change.word.background": "#40a6ff1a",
         "mergeEditor.conflict.handledUnfocused.border": "#00fff280",
         "mergeEditor.conflict.handledFocused.border": "#00fff2",
         "mergeEditor.conflict.handled.minimapOverViewRuler": "#00fff2ce",
+        "mergeEditor.conflict.unhandledUnfocused.border": "#6666ff80",
+        "mergeEditor.conflict.unhandledFocused.border": "#6666ff",
         "mergeEditor.conflict.unhandled.minimapOverViewRuler": "#6666ffce",
 		
 		"peekView.border":"#171C25",
