@@ -2,14 +2,14 @@
 	"name": "Aqua Neon Theme",
 	"colors": {
 
-		//faltan git, texto de terminales
+		//faltan texto de terminales
 
 		"foreground": "#697E8B",
 		"disabledForeground": "#3A4651",
 		"focusBorder": "#232A34",
 		"selection.background": "#B0D2E245",
 		"descriptionForeground": "#52626E",
-		"errorForeground":"#ff3257",
+		"errorForeground":"#ff3355",
 		"icon.foreground":"#697E8B",
 		"sash.hoverBorder":"#697E8B",
 		
@@ -146,11 +146,11 @@
 		"editorGroup.dropBackground":"#C7EEFF14",
 		"editorGroupHeader.tabsBackground":"#0D1017",
 
-		"tab.activeBackground":"#0D1017",
+		"tab.activeBackground":"#11151E",
 		"tab.unfocusedActiveBackground":"#0D1017",
-		"tab.border":"#0D1017",
+		"tab.border":"#ffffff00",
 		"tab.dragAndDropBorder":"#C7EEFF",
-		"tab.inactiveBackground":"#0D1017",
+		"tab.inactiveBackground":"#0C0F15",
 		"tab.inactiveForeground":"#697E8B",
 		"tab.hoverBackground":"#171C25",
 		"tab.activeForeground":"#B0D2E2",
@@ -207,6 +207,14 @@
 		"editorCodeLens.foreground":"#B0D2E245",
 
 		"gitDecoration.ignoredResourceForeground":"#B0D2E245",
+		"git.blame.editorDecorationForeground":"#98B6C5",
+		"gitDecoration.addedResourceForeground":"#00fff280",
+		"gitDecoration.untrackedResourceForeground":"#4dbfb6",
+		"gitDecoration.conflictingResourceForeground":"#bf4d60",
+		"gitDecoration.deletedResourceForeground":"#bf7860",
+		"gitDecoration.modifiedResourceForeground":"#6078bf",
+		"gitDecoration.renamedResourceForeground": "#60bf80",
+		"gitDecoration.submoduleResourceForeground":"#608fbf"
 	},
 	"tokenColors": [
 		{
