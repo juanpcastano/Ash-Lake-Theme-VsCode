@@ -2,7 +2,7 @@
 	"name": "Aqua Neon Theme",
 	"colors": {
 
-		//faltan merge conflicts, git, texto de terminales
+		//faltan git, texto de terminales
 
 		"foreground": "#697E8B",
 		"disabledForeground": "#3A4651",
@@ -51,6 +51,22 @@
 		"diffEditorGutter.removedLineBackground":"#ff325810",
 		"multiDiffEditor.headerBackground":"#11151E",
 
+		"merge.currentContentBackground":"#00fff210",
+		"merge.currentHeaderBackground":"#00fff21a",
+		"merge.incomingContentBackground":"#40a6ff10",
+		"merge.incomingHeaderBackground":"#40a6ff10",
+		"merge.commonContentBackground":"#697E8B10",
+		"merge.commonHeaderBackground":"#697E8B1a",
+
+		"mergeEditor.change.background": "#6666ff10",
+        "mergeEditor.change.word.background": "#6666ff1a",
+        "mergeEditor.conflict.unhandledUnfocused.border": "#6666ff80",
+        "mergeEditor.conflict.unhandledFocused.border": "#6666ff",
+        "mergeEditor.conflict.handledUnfocused.border": "#00fff280",
+        "mergeEditor.conflict.handledFocused.border": "#00fff2",
+        "mergeEditor.conflict.handled.minimapOverViewRuler": "#00fff2ce",
+        "mergeEditor.conflict.unhandled.minimapOverViewRuler": "#6666ffce",
+		
 		"peekView.border":"#171C25",
 		"peekViewEditor.background":"#0D1017",
 		"peekViewEditor.matchHighlightBackground":"#98b6c529",
@@ -78,7 +94,6 @@
 		"textPreformat.foreground":"#98B6C5",
 
 		"toolbar.hoverBackground":"#3A4651",
-		"toolbar.activeBackground":"#697E8B",
 
 		"button.background":"#52626E",
 		"button.secondaryBackground":"#3A4651",
@@ -94,9 +109,9 @@
 		"dropdown.foreground":"#697E8B",
 		
 		"scrollbar.shadow":"#232A34",
-		"scrollbarSlider.activeBackground":"#3A4651",
-		"scrollbarSlider.background":"#171C25",
-		"scrollbarSlider.hoverBackground":"#232A34",
+		"scrollbarSlider.activeBackground":"#3a465180",
+		"scrollbarSlider.background":"#3a465150",
+		"scrollbarSlider.hoverBackground":"#3a46516a",
 		
 
 		"badge.background":"#232A34",
@@ -114,7 +129,9 @@
 		"activityBar.background":"#0D1017",
 		"activityBar.dropBorder": "#C7EEFF",
 		"activityBar.foreground":"#C7EEFF",
-		"activityBarBadge.background":"#697E8B",
+		"activityBarBadge.background":"#98B6C5",
+		"activityWarningBadge.background":"#bfb78f",
+		"activityErrorBadge.background":"#bf8f97",
 		"activityBarBadge.foreground": "#0D1017",
 		"activityBar.inactiveForeground": "#697E8B",
 
@@ -178,9 +195,9 @@
 		"keybindingLabel.foreground":"#C7EEFF",
 
 		"titleBar.activeBackground":"#0D1017",
-		"titleBar.inactiveForeground":"#52626E",
-		"titleBar.activeForeground":"#697E8B",
 		"titleBar.inactiveBackground":"#0D1017",
+		"titleBar.activeForeground":"#697E8B",
+		"titleBar.inactiveForeground":"#52626E",
 		"terminal.background":"#0D1017",
 		"terminal.foreground":"#C7EEFF",
 		"terminal.selectionBackground":"#B0D2E245",
