@@ -123,7 +123,7 @@
 		"list.inactiveSelectionBackground":"#3A465150",
 		"list.inactiveSelectionForeground":"#B0D2E2",
 		"list.hoverForeground":"#C7EEFF",
-		"list.errorForeground":"#E67386",
+		"list.errorForeground":"#E63956",
 		"list.warningForeground":"#E6BA39",
 
 		"activityBar.background":"#0D1017",
@@ -145,6 +145,10 @@
 		"editorGroup.border":"#C7EEFF14",
 		"editorGroup.dropBackground":"#C7EEFF14",
 		"editorGroupHeader.tabsBackground":"#0D1017",
+
+		"editorGutter.addedBackground":"#53A691",
+		"editorGutter.modifiedBackground":"#537ca6",
+		"editorGutter.deletedBackground":"#E67386",
 
 		"tab.activeBackground":"#11151E",
 		"tab.unfocusedActiveBackground":"#0D1017",
@@ -218,14 +222,23 @@
 		"terminal.ansiGreen":"#53A691",
 		"terminal.ansiBrightGreen":"#73e6c9",
 
-		"terminal.ansiMagenta":"#5353a6",
-		"terminal.ansiBrightMagenta":"#7373e6",
+		"terminal.ansiMagenta":"#5368A6",
+		"terminal.ansiBrightMagenta":"#738FE6",
 
 		"terminal.ansiRed":"#a65361",
 		"terminal.ansiBrightRed":"#e67386",
 		
 		"terminal.ansiYellow":"#a69153",
 		"terminal.ansiBrightYellow":"#e6c973",
+
+		"problemsErrorIcon.foreground":"#E67386",
+		"problemsInfoIcon.foreground":"#73ACE6",
+		"problemsWarningIcon.foreground":"#E6C973",
+
+		"debugConsole.errorForeground":"#E67386",
+		"debugConsole.infoForeground":"#73ACE6",
+		"debugConsole.warningForeground":"#E6C973",
+
 		
 		// orange/brown = #a66853, #e68f73, #e66439
 
@@ -240,8 +253,8 @@
 		"gitDecoration.conflictingResourceForeground":"#a65361",
 		"gitDecoration.deletedResourceForeground":"#a66853",
 		"gitDecoration.stageDeletedResourceForeground":"#e68f73",
-		"gitDecoration.modifiedResourceForeground":"#5353a6",
-		"gitDecoration.stageModifiedResourceForeground":"#7373e6",
+		"gitDecoration.modifiedResourceForeground":"#738FE6",
+		"gitDecoration.stageModifiedResourceForeground":"#3964E6",
 		"gitDecoration.renamedResourceForeground": "#73ace6",
 		"gitDecoration.submoduleResourceForeground":"#e6c973",
 	},
