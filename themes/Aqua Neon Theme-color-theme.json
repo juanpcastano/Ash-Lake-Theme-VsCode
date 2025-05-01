@@ -1,5 +1,5 @@
 {
-	"name": "Aqua Neon Theme",
+	"name": "Ash lake",
 	"colors": {
 
 		"foreground": "#697E8B",
@@ -35,6 +35,7 @@
 		"editorBracketHighlight.foreground4": "#C7EEFF", 
 		"editorBracketHighlight.foreground5": "#C7EEFF", 
 		"editorBracketHighlight.foreground6": "#C7EEFF", 
+		"editorError.foreground":"#e67386",
 
 		"diffEditor.diagonalFill":"#98b6c51a",
 		"diffEditor.insertedLineBackground": "#39E6BA10",
@@ -74,8 +75,10 @@
 
 		"debugToolBar.background":"#11151E",
 
-		"editorWidget.background":"#11151E",
+		"editorWidget.background":"#0d1017",
+		"editorWidget.foreground":"#697e8b",
 		"editorWidget.border":"#98b6c529",
+
 		
 		"input.background":"#171C25",
 		"inputOption.activeBackground":"#98b6c529",
@@ -105,6 +108,8 @@
 		"dropdown.background": "#0D1017",
 		"dropdown.border":"#171C2500",
 		"dropdown.foreground":"#697E8B",
+		"dropdown.listBackground":"#0D1017",
+		
 		
 		"scrollbar.shadow":"#232A34",
 		"scrollbarSlider.activeBackground":"#3a465180",
@@ -150,6 +155,9 @@
 		"editorGutter.modifiedBackground":"#537ca6",
 		"editorGutter.deletedBackground":"#E67386",
 
+		"pickerGroup.border":"#171C25",
+		"pickerGroup.foreground":"#B0D2E2",
+
 		"tab.activeBackground":"#11151E",
 		"tab.unfocusedActiveBackground":"#0D1017",
 		"tab.border":"#ffffff00",
@@ -183,7 +191,8 @@
 		"statusBarItem.remoteHoverForeground":"#0D1017",
 
 		"menubar.selectionForeground":"#C7EEFF",
-		"menu.separatorBackground":"#3A4651",
+		"menu.background":"#0d1017",
+		"menu.separatorBackground":"#171C25",
 		"menu.selectionForeground": "#C7EEFF",
 
 		"commandCenter.background":"#0D1017",
@@ -257,6 +266,22 @@
 		"gitDecoration.stageModifiedResourceForeground":"#3964E6",
 		"gitDecoration.renamedResourceForeground": "#73ace6",
 		"gitDecoration.submoduleResourceForeground":"#e6c973",
+		"scmGraph.foreground5":"#738FE6",
+		"scmGraph.foreground4":"#73e6c9",
+		"scmGraph.foreground3":"#e68f73",
+		"scmGraph.foreground2":"#e67386",
+		"scmGraph.foreground1":"#e6c973",
+		"scmGraph.historyItemBaseRefColor":"#73e6e6",
+		"scmGraph.historyItemRefColor":"#73ace6",
+		"scmGraph.historyItemHoverAdditionsForeground":"#73e6c9",
+		"scmGraph.historyItemHoverDeletionsForeground":"#e67386",
+		"scmGraph.historyItemHoverDefaultLabelBackground":"#3A4651",
+		"scmGraph.historyItemHoverDefaultLabelForeground":"#98B6C5",
+		"scmGraph.historyItemHoverLabelForeground":"#171C25",
+		"scmGraph.historyItemRemoteRefColor":"#738FE6",
+
+		
+		
 	},
 	"tokenColors": [
 		{
