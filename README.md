@@ -1,4 +1,4 @@
-# Aqua Neon Theme
+# Ash Lake Color Theme VsCode
 
 a personal visual studio theme, not made for making the things more visible, just prettier for me :)
 

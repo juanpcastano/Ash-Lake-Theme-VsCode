@@ -1,6 +1,6 @@
 {
-  "name": "aqua-neon",
-  "displayName": "Aqua Neon",
+  "name": "ash-lake",
+  "displayName": "Ash-Lake",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Aqua Neon Theme",
+        "label": "Ash Lake Theme VsCode",
         "uiTheme": "vs-dark",
-        "path": "./themes/Aqua Neon Theme-color-theme.json"
+        "path": "./themes/ash-lake-color-theme.json"
       }
     ]
   }
