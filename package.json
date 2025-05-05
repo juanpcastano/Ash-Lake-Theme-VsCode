@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.94.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juanpcastano/Ash-Lake-Theme-VsCode.git"
+  },
   "categories": [
     "Themes"
   ],
